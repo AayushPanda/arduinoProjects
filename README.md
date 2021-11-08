@@ -1,2 +1,2 @@
 # arduinoProjects
-Temporary, just to have online backup.
+Temporary, and only just to have online backup.
